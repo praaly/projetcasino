@@ -1,8 +1,8 @@
 <?php
 
-define('MYSQL_USER', 'root');
-define('MYSQL_PASSWORD', '6W9=>');
-define('MYSQL_HOST', 'localhost');
+define('MYSQL_USER', 'projetcasino');
+define('MYSQL_PASSWORD', '4teVnaYM6yuVuDWJ');
+define('MYSQL_HOST', '5.196.243.43');
 define('MYSQL_DATABASE', 'projetcasino');
 
 
@@ -17,4 +17,7 @@ try {
 catch (Exception $e){
     die('Erreur : ' . $e->getMessage());
 }
+
+
+
 ?>
